@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+            <gpx
+            xmlns="http://www.topografix.com/GPX/1/1"
+            xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+            xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+            http://www.garmin.com/xmlschemas/GpxExtensions/v3
+            http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+            version="1.1"
+            creator="StefanLage">
+                <wpt lat="41.11902383180047" lon="1.245810451718099">
+                    <time>2015-08-01 12:17:03 +0000</time>
+                    <name>Tarragona</name>
+                    <extensions>
+                        <gpxx:WaypointExtension>
+                            <gpxx:Address>
+                                <gpxx:StreetAddress>Plaça de la Imperial Tarraco</gpxx:StreetAddress>
+                                <gpxx:City>Tarragona</gpxx:City>
+                                <gpxx:Country>España</gpxx:Country>
+                                <gpxx:PostalCode>43005</gpxx:PostalCode>
+                            </gpxx:Address>
+                        </gpxx:WaypointExtension>
+                    </extensions>
+                </wpt>
+            </gpx>
